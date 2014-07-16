@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="0"/>
+    <underlineThickness value="0"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name=".null"/>
+      <psName name="uni00A0"/>
+      <psName name="uni00AD"/>
+      <psName name="uni00B2"/>
+      <psName name="uni00B3"/>
+      <psName name="uni00B5"/>
+      <psName name="periodcentered"/>
+      <psName name="uni00B9"/>
+      <psName name="uni2000"/>
+      <psName name="uni2001"/>
+      <psName name="uni2002"/>
+      <psName name="uni2003"/>
+      <psName name="uni2004"/>
+      <psName name="uni2005"/>
+      <psName name="uni2006"/>
+      <psName name="uni2007"/>
+      <psName name="uni2008"/>
+      <psName name="uni2009"/>
+      <psName name="uni200A"/>
+      <psName name="uni2010"/>
+      <psName name="uni2011"/>
+      <psName name="figuredash"/>
+      <psName name="uni202F"/>
+      <psName name="uni205F"/>
+      <psName name="Euro"/>
+      <psName name="uni2639"/>
+      <psName name="smileface"/>
+      <psName name="uni2661"/>
+      <psName name="heart"/>
+      <psName name="uni2698"/>
+      <psName name="uni269C"/>
+      <psName name="uni2766"/>
+      <psName name="uniE000"/>
+      <psName name="uniE0B5"/>
+      <psName name="uniE0B6"/>
+      <psName name="uniE0B7"/>
+      <psName name="uniE0B8"/>
+      <psName name="uniE0B9"/>
+      <psName name="uniE0BA"/>
+      <psName name="uniE0BB"/>
+      <psName name="uniE0BC"/>
+      <psName name="leaf"/>
+    </extraNames>
+  </post>
+
+</ttFont>
